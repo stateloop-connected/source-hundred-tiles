@@ -1,0 +1,14 @@
+{
+  "build_script": "tsc -b && vite build",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "yrizos/hundred-tiles",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "0fd4b5e0775173bc5d593730f6e04013889ab0e5"
+}
